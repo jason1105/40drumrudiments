@@ -6,4 +6,5 @@
 
 * [Single Stroke Roll](single-stroke/single-stroke-roll.md)
 * [Single Stroke Four](single-stroke/single-stroke-four.md)
+* [Single Stroke Seven](single-stroke/single-stroke-seven.md)
 
