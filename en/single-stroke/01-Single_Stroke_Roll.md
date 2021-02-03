@@ -17,7 +17,7 @@ As you practice any of the 40 drum rudiments, sit in front of a mirror so you ca
 
 Once you can play the single stroke roll comfortably on a single surface (practice pad, snare drum) you can move on to learn how to apply it to the drum set. On exercise #1, start by playing a 16th note single stroke roll on the hi-hat. Once you have that down, take the leading hand off of the hi-hat to hit the snare drum on counts 2 and 4. Add the bass drum on counts 1 and 3 and you’re set.
 
-![Single Stroke Roll #1](https://i.loli.net/2021/02/02/TVWOtHJcMQxgfI6.gif)
+![image-20210203194240913](https://i.loli.net/2021/02/03/UrXJM3szLtvZif1.png)
 
 On exercise #2, the bass drum pattern is the same as the one on the previous drum beat. However, the 16th note single stroke roll is a lot more broken up between the hi-hat and the snare drum. Keep the weaker hand close to the snare drumhead so you can play very soft ghost notes on the “e’s” and “ahs” of each count. The leading hand is on the hi-hat playing 8th notes on the “ands” and on counts 1 and 3. On counts 2 and 4 move that hand to hit accented strokes on the snare drum.
 
