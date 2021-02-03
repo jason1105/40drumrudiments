@@ -1,3 +1,11 @@
+---
+title: "双击滚奏(双跳)"
+date: 2021-02-03T17:18:34+08:00
+image: "images/blog/post-5.jpg"
+description: "军鼓40条是打击乐的基本功之一."
+draft: false
+---
+
 ## 05 双跳滚奏
 
 <iframe src="//player.bilibili.com/player.html?aid=203903244&bvid=BV15h41117tc&cid=289093657&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

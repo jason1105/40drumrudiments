@@ -1,5 +1,9 @@
 ---
-description: book note
+title: "多跳滚奏"
+date: 2021-02-03T17:17:34+08:00
+image: "images/blog/post-5.jpg"
+description: "军鼓40条是打击乐的基本功之一."
+draft: false
 ---
 
 ## 04 多跳滚奏
