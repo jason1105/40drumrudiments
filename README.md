@@ -1,3 +1,4 @@
-# 简介
+# 40 Drum Rudiments
 
-该教程的英文部分来自[40 DRUM RUDIMENTS](https://www.40drumrudiments.com/)。
+40 drum rudiments are necessary if you want to learn drum.
+
