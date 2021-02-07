@@ -10,4 +10,5 @@
   * [双击滚奏\(双跳\)](drum-roll/05-double_stroke_roll.md)
   * [三击滚奏\(三跳\)](drum-roll/06-triple_stroke_roll.md)
   * [五击滚奏](drum-roll/07-five_stroke_roll.md)
+  * [六击滚奏](drum-roll/08-six_stroke_roll.md)
 
