@@ -17,7 +17,7 @@ draft: false
 
 `单击滚奏`技法是双手交替击打的方法, 节拍是: R\(右\) L\(左\) R L R L ... 如果您习惯左手, 那就是L R L R L R ... 哪只手开始不重要, 重要的是学习如何用两只手完成`单击滚奏`.
 
-![Single Stroke Roll](https://i.loli.net/2021/02/02/e6HinDJERkhIm4q.gif)
+![单击滚奏](https://i.loli.net/2021/02/02/e6HinDJERkhIm4q.gif)
 
 学习 `军鼓40条` 要慢慢来, 急于求成是不行的. 注重学习的过程才会让您超越您自己. 重点是**关注质量**而不是数量.
 
@@ -25,19 +25,19 @@ draft: false
 
 一旦您能够在一个鼓上熟练演奏`单击滚奏`, 就可以学习如何在爵士鼓上练习了. 在练习一中, 先在 hi-hat 演奏16分音符. 熟练后, 在数到2和4的时候, 引导手下来击打军鼓. 最后在数到1和3的时候添加底鼓就可以了.
 
-![Single Stroke Roll \#1](https://i.loli.net/2021/02/02/TVWOtHJcMQxgfI6.gif)
+![单击滚奏 \#1](https://i.loli.net/2021/02/02/TVWOtHJcMQxgfI6.gif)
 
 在练习二中, 底鼓的演奏和上一个练习的鼓点相同. 然而, 16分音符的`单击滚奏`是在 hi-hat 和 军鼓之间 很多分散的音符. 保持较弱的手\(左手\)贴近军鼓, 这样您就可以在每个节拍的 e 和 ah 上演奏非常柔和的弱音了. 第一拍和第三拍, 引导手\(右手\)在 hi-hat 上演奏8分音符. 第二拍和第四拍, 引导手在军鼓上演奏重音.
 
-![image-20210203194240913](https://i.loli.net/2021/02/03/UrXJM3szLtvZif1.png)
+![单击滚奏 \#2](https://i.loli.net/2021/02/03/UrXJM3szLtvZif1.png)
 
 练习三是这个`军鼓40条`系列中的第一个鼓花. 这个鼓花意在过鼓. 从军鼓开始移动到嗵鼓, 每个鼓打四下.
 
-![Single Stroke Roll \#3](https://i.loli.net/2021/02/02/bXvyMxAcBjN8eDR.gif)
+![单击滚奏 \#3](https://i.loli.net/2021/02/02/bXvyMxAcBjN8eDR.gif)
 
 最后一个练习, 由上一个练习变化而来. 第二个小节的鼓花的开始由第1拍改为第3拍 - 这就是所谓的半小节鼓花. 先打军鼓, 然后依次打 tom, 每个鼓上打两下.
 
-![Single Stroke Roll \#4](https://i.loli.net/2021/02/02/CjBaDeuKpYLN6If.gif)
+![单击滚奏 \#4](https://i.loli.net/2021/02/02/CjBaDeuKpYLN6If.gif)
 
 一旦您能够准确的演奏`单击滚奏`和这些练习, 您就可以进一步扩展关于`军鼓40条`的知识面了. 如果您想继续学习基于`单击滚奏`的基础技法, 建议您学习如何演奏单击四音. 如果您想学习一个新的基础技法, 那么双击滚奏\(双跳\)是最适合您的.
 

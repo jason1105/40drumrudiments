@@ -16,23 +16,23 @@ draft: false
 
 当鼓棒跳动时, 你可以减小支点上的压力, 这样鼓棒更容易弹跳. 初学者的问题是, 用后面的手指握紧了鼓棒, 从而导致鼓棒反弹次数减少, 注意避免这样的问题. 放松后面三根手指, 只用拇指和食指处理支点压力. 学习如何用双手演奏**多跳滚奏**.
 
-![Multiple Bounce Roll](https://i.loli.net/2021/01/26/1IMos2jvkATQfhH.gif)
+![多跳滚奏](https://i.loli.net/2021/01/26/1IMos2jvkATQfhH.gif)
 
 第一个练习组合了[**单击滚奏**](https://github.com/jason1105/40drumrudiments/tree/74fe8d5369fb39e29cdb1eb3cbcdc7f93b2ee230/cn/drum-roll/01_Single%20Stroke%20Roll.md)和**多跳滚奏**. 前两个音符，用踩镲和军鼓演奏一个16分音符的[**单击滚奏**](https://github.com/jason1105/40drumrudiments/tree/74fe8d5369fb39e29cdb1eb3cbcdc7f93b2ee230/cn/drum-roll/01_Single%20Stroke%20Roll.md)，就像单击滚奏的练习\#1一样。然后在第3个音符中，你要演奏一个16分音符的**多跳滚奏**，在第4个音符中以单击结束。刚开始练习速度放慢些。这个练习可以让你习惯于在单音滚奏和多跳滚奏之间，以及在多跳滚奏和第4个音符的单击之间平滑过渡。
 
-![Multiple Bounce Roll \#1](https://i.loli.net/2021/01/26/rc7PgFozOV1n4Al.gif)
+![多跳滚奏 \#1](https://i.loli.net/2021/01/26/rc7PgFozOV1n4Al.gif)
 
 在练习\#2中，多跳滚奏在第2和第4个音符上与单拍配合演奏。低音鼓在第1、3音符上演奏。如果你已经练习了我们在上一个鼓点上讨论过的从单击到多跳的过渡，那么你在掌握这个鼓点的时候就没有问题了。
 
-![Multiple Bounce Roll \#2](https://i.loli.net/2021/01/26/Em15alGStyRvBPT.gif)
+![多跳滚奏 \#2](https://i.loli.net/2021/01/26/Em15alGStyRvBPT.gif)
 
 练习3是第一个包含了多跳滚奏的鼓花. 看下面的乐谱, 这个鼓花把同一段旋律应用了两次\(指的是第2小节中的两段旋律\) - 它们分别开始于第1个音符和第3个音符. 唯一不同的是第2个音符和第4个音符. 这段节奏和上面练习1的第3个音符是一样的. 所以如果你跟着我们做了练习1, 那么这个练习也没问题.
 
-![Multiple Bounce Roll \#3](https://i.loli.net/2021/01/26/2K1u7CzeZ6OW3IT.gif)
+![多跳滚奏 \#3](https://i.loli.net/2021/01/26/2K1u7CzeZ6OW3IT.gif)
 
 最后这个练习另一个鼓花. 节奏模式基本上和练习3一样. 变化之处是: 把第3个音符的 bass drum 左移一个八分音符, 和第2个音符连接起来. 练习3的第4个音符的 F.T. 右移一个八分音符, 和第4个音符连接起来, 所以我们可以增加一个 H.T. 音符. 这是一个不错的例子, 教给我们如何用现有的鼓花来创造新的鼓花.
 
-![Multiple Bounce Roll \#4](https://i.loli.net/2021/01/26/c1QmCaKvIOkz7n4.gif)
+![多跳滚奏 \#4](https://i.loli.net/2021/01/26/c1QmCaKvIOkz7n4.gif)
 
 一旦你完成了这一节课, 你可以继续学习其他的基本功, 例如双跳, 单复合跳, 单倚音, 双倚音, 三跳滚奏. 只要记住在这40个基础课程中, 每一个课程的材料都需要慢慢学习. 这些模式需要多年去掌握. 你越是多的去练习每个基本功, 你最终就会更好的表演它们.
 
