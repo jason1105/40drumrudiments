@@ -9,3 +9,4 @@
     - [Triple Stroke Roll](drum-roll/06-triple_stroke_roll.md)
     - [Five Stroke Roll](drum-roll/07-five_stroke_roll.md)
     - [Six Stroke Roll](drum-roll/08-six_stroke_roll.md)
+    - [Seven Stroke Roll](drum-roll/09-seven_stroke_roll.md)
