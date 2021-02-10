@@ -12,4 +12,5 @@
   * [五击滚奏](drum-roll/07-five_stroke_roll.md)
   * [六击滚奏](drum-roll/08-six_stroke_roll.md)
   * [七击滚奏](drum-roll/09-seven_stroke_roll.md)
+  * [九击滚奏](drum-roll/10-nine_stroke_roll.md)
 
