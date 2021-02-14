@@ -12,3 +12,4 @@
     - [Seven Stroke Roll](drum-roll/09-seven_stroke_roll.md)
     - [Nine Stroke Roll](drum-roll/10-nine_stroke_roll.md)
     - [Ten Stroke Roll](drum-roll/11-ten_stroke_roll.md)
+    - [Eleven Stroke Roll](drum-roll/12-eleven_stroke_roll.md)
