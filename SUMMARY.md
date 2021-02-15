@@ -1,7 +1,9 @@
 * [Introduction](README.md)
 * Basis
+    
     - [Drum Basis](basis/drum-basis.md)
 * Single Stroke
+    
     - [Single Stroke Roll](single-stroke/01-single_stroke_roll.md)
 * Drum Roll
     - [Multiple Bounce Roll](drum-roll/04-multiple_bounce_roll.md)
