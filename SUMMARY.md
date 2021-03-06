@@ -5,6 +5,7 @@
   * [基础](basis/drum-basis.md)
 * [单击](single-stroke/README.md)
   * [单击滚奏](single-stroke/01-single_stroke_roll.md)
+  * [四击](single-stroke/02-single_stroke_four.md)
 * [滚奏](drum-roll/README.md)
   * [多跳滚奏](drum-roll/04-multiple_bounce_roll.md)
   * [双击滚奏\(双跳\)](drum-roll/05-double_stroke_roll.md)
