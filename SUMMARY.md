@@ -5,6 +5,7 @@
 * Single Stroke
   
     - [Single Stroke Roll](single-stroke/01-single_stroke_roll.md)
+    - [Single Stroke Four](single-stroke/02-single_stroke_four.md)
 * Drum Roll
     - [Multiple Bounce Roll](drum-roll/04-multiple_bounce_roll.md)
     - [Double Stroke Roll](drum-roll/05-double_stroke_roll.md)
