@@ -16,3 +16,17 @@ Music is written on a music staff, which features five parallel horizontal lines
 
 ![How to Read Drum Sheet Music](https://i.loli.net/2021/01/28/e1nVQwRM8HKi6g3.png)
 
+## 强弱音符号
+
+F:强
+P：弱
+mf：中强
+mp：中弱
+pp：很弱
+ff：很强
+fff：极强
+zf：次强
+zp：次弱
+
+pp＜zp＜mp＜p＜zf＜mf＜f＜ff＜fff
+
