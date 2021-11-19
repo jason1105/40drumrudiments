@@ -30,3 +30,9 @@ zp：次弱
 
 pp＜zp＜mp＜p＜zf＜mf＜f＜ff＜fff
 
+## 镲的区域
+![enter image description here](https://i.stack.imgur.com/3rZff.png)
+
+## 三连音
+三连音的数拍方法: 1-trip-let, 2-trip-let, 3-trip-let, 4-trip-let  
+
